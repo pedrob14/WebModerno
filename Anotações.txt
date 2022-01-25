@@ -1,0 +1,19 @@
+- Seção 2
+    - Extensões no VSCode
+        - Code Runner
+            
+            Permite executar códigos javascrip direto no terminal do vscode
+            
+            Tecla de atalho: Ctrl+ Alt + N
+            
+    - Janela de pesquisa no VSCode
+        
+        Ctrl + Shift + P
+- Seção 3
+    - Limpar a saída da execução anterior
+        
+        Extensions → Code Runner → ícone de configuração → Extension Settings
+	→ Habilitar a opção “Clear Previous Output”
+        
+        Ao executar o código, vai sempre aparecer a mais recente, limpando assim as anteriores.
+        
