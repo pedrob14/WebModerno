@@ -17,3 +17,7 @@
         
         Ao executar o código, vai sempre aparecer a mais recente, limpando assim as anteriores.
         
+    - Salvar o arquivo antes da execução
+        
+        Extensions → Code Runner → ícone de configuração → Extension Settings
+	→ Habilitar a opção “Save File Before Run”
